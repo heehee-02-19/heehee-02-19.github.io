@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Local env files
+.env
+.env.local
+
+# OS files
+.DS_Store
