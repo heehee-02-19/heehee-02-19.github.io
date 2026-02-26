@@ -1,6 +1,10 @@
 ---
 import PostLayout from '../../layouts/PostLayout.astro';
-import { getEntryBySlug } from 'astro:content';
+import { getEntryBySlug, getCollection } from 'astro:content';
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map(post => ({ params: { slug: post.slug } }));
+}
 const { slug } = Astro.params;
 const entry = await getEntryBySlug('posts', slug);
 if (!entry) {
