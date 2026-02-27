@@ -1,18 +1,18 @@
 {
-  "name": "jekyll-theme-chirpy",
+  "name": "heehee-security-portfolio",
   "version": "7.4.1",
-  "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+  "description": "Personal security research portfolio and blog site.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    "url": "git+https://github.com/heehee-02-19/heehee-02-19.github.io.git"
   },
-  "author": "Cotes Chung",
+  "author": "heehee-02-19",
   "license": "MIT",
   "since": 2019,
   "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    "url": "https://github.com/heehee-02-19/heehee-02-19.github.io/issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy/",
+  "homepage": "https://heehee-02-19.github.io/",
   "type": "module",
   "scripts": {
     "build": "concurrently npm:build:*",
