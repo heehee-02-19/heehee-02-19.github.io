@@ -41,4 +41,4 @@ order: 4
 ## 연락처
 
 - GitHub: [heehee-02-19](https://github.com/heehee-02-19)
-- Email: [heehee@example.com](mailto:heehee@example.com)
+- Email: [20133019@kookmin.ac.kr](mailto:20133019@kookmin.ac.kr)
