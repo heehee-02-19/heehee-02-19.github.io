@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: heehee-02-19
+title: heehee
 
-tagline: Security Research Notes
+tagline: Security Researcher
 
 description: >-
   취약점 분석, 차량 보안, 커널 보안 연구를 기록하는 보안 리서처 포트폴리오입니다.
