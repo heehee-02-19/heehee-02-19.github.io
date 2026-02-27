@@ -175,9 +175,10 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   }
 
   .sidebar-bottom {
-    padding-left: 1.5rem;
-    padding-right: 1rem;
+    padding-left: 0;
+    padding-right: 0;
     margin-bottom: 1.5rem;
+    justify-content: center;
 
     @include bp.xxxl {
       padding-left: 2.75rem;
